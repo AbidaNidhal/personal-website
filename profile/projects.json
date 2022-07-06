@@ -1,0 +1,90 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n - Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/mayankagarwal09/dev-portfolio"},
+                {"text": "Live","href": "https://www.nidhalabida.xyz"}
+            ],
+            "tags" : ["React","Portfolio","JavaScript"]
+        },
+        {
+            "image" : "images/projects/vr.png",
+            "title": "VR game developement",
+            "bodyText": "- Part of my End of Studies Project\n - Multiplayer VR FPS game\n - Motion Tracking with Perception Neuron",
+            "links": [
+                {"text": "Video","href": "https://www.youtube.com/watch?v=_H3jLIoVOvs"}
+            ],
+            "tags" : ["Unity","Game","VR","Perception Neuron"]
+        },        {
+            "image" : "images/projects/ss.png",
+            "title": "Interactive solar system",
+            "bodyText": "- 3D frontend\n - Hand gestrures control",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/solar-system"},
+                {"text": "Video","href": "https://youtu.be/o-xO1fZIIjU"},
+                {"text": "Live","href": "https://silver-khapse-63436e.netlify.app/"}
+            ],
+            "tags" : ["Machine Learning","Mediapipe","3D","Three.js"]
+        },
+        {
+            "image" : "images/projects/fps.png",
+            "title": "Duck Hunt like game",
+            "bodyText": "- Part of a school project",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Jeu-De-Tir"}
+            ],
+            "tags" : ["Java","Game"]
+        },
+        {
+            "image" : "images/projects/IRIS-Data-Mining.png",
+            "title": "Weka3 IRIS Data Mining Model",
+            "bodyText": "- Built a Data Mining Model from Scratch",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Weka3-IRIS-Data-Mining-Mode"}
+            ],
+            "tags" : ["Weka3","Data Mining"]
+        },
+        {
+            "image" : "images/projects/uber.jpg",
+            "title": "Uber Trips Analysis",
+            "bodyText": "- Uber trips data manipulation\n - Data visualization",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Uber-Trips-Analysis"}
+            ],
+            "tags" : ["Python","Pandas"]
+        },
+        {
+            "image" : "images/projects/wash.png",
+            "title": "The Discovery of Handwashing",
+            "bodyText": "- Visualization of the effect of handwashing on decreasing the number of deaths\n - recreation of Ignaz Semmelweis with modern tools",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/The-Discovery-of-Handwashing"}
+            ],
+            "tags" : ["Python","Pandas","Numpy"]
+        },
+        {
+            "image" : "images/projects/parkinson.png",
+            "title": "Predicting Parkinson’s Disease",
+            "bodyText": "- Feature selection\n - Built a machine learning model\n - Use of metrics(accuracy & ROC curve) to evaluate the model’s performance.",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Uber-Trips-Analysis"},
+                {"text": "XGBOOST article","href": "https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/"}
+                
+            ],
+            "tags" : ["Python","Pandas","Numpy","SKlearn","XGBOOST"]
+        },
+        {
+            "image" : "images/projects/fake.jpg",
+            "title": "Detecting Fake News",
+            "bodyText": "- Built a machine learning model with TfidfVectorizer\n - Use of confusion matrix",
+            "links": [
+                {"text": "GitHub","href": "https://github.com/AbidaNidhal/Detecting-Fake-News"}
+            ],
+            "tags" : ["Python","Pandas","Numpy","SKlearn"]
+        }
+
+    ]
+}
